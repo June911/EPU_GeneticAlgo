@@ -11,4 +11,4 @@ Developing Category-specific Economic Policy Uncertainty Indices through Genetic
 - We proceed in three steps: 
   - first, with initial EPU terms, we use a pre-trained word embedding space to extend the set of candidate keywords. 
   - Second, using the genetic algorithm, we search for the best subset of candidate keywords that matches the dynamics of a pre-determined target variable. 
-  - Last, following the same steps proposed by \href{https://www.policyuncertainty.com/media/EPU_BBD_Mar2016.pdf}{Baker et al. (2016)}, we build the new category-specific EPU index. 
+  - Last, following the same steps proposed by [Baker et al. (2016)](https://www.policyuncertainty.com/media/EPU_BBD_Mar2016.pdf), we build the new category-specific EPU index. 
